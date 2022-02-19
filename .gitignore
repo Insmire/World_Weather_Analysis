@@ -6,6 +6,7 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 PythonReqLibVer.ipynb
+WeatherPy.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
