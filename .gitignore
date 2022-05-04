@@ -1,12 +1,12 @@
-
-# Adding config.py file.
+# Adding files
 config.py
-
-# Adding additional files
 API_practice.ipynb
 random_numbers.ipynb
 PythonReqLibVer.ipynb
 WeatherPy.ipynb
+Resources/
+Google_Nearby_Search.ipynb
+VacationPy.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
