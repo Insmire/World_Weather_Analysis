@@ -1,6 +1,6 @@
 ## Overview
 
-The purpose of this project is to 
+The purpose of this project is to add weather descriptions to each location
 
 ---
 
@@ -17,6 +17,8 @@ Data Source:
 Software:
 
     Jupyter Notebook
+    Matplotlib
+    Pandas
     Python
 
 ---
